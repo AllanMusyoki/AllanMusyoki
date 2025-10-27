@@ -1,4 +1,4 @@
-- Hi, I’m @AllanMusyoki
+- Hi, I’m Allan Musyoki
 - I’m interested in ...Web Dev
 - I’m currently learning ...HTML CSS JS PHP PY
 - I’m looking to collaborate on ...
