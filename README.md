@@ -1,7 +1,7 @@
 - Hi, I’m Allan Musyoki
 - I’m interested in Web Dev
 - I’m currently learning HTML CSS JS PHP PY
-- How to reach me +254704199374
+- How to reach me: allanfun305@gmail.com
 - Pronouns: he/him
 - Fun fact: I'm still learning
 
